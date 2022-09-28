@@ -6,8 +6,8 @@ This is the collections of data fitting scripts in the paper of [Li, Weicheng, N
 
 It includes the scripts of:
 
-1. Hyperbolic curve fitting for CD binding data (Fig 3a)
-2. One site binding model fitting for ITC titration data via via *itcsimlib* (Fig 3b)
+1. Quadratic curve fitting for CD binding data (Fig 3a)
+2. One-site binding model fitting for ITC titration data via *itcsimlib* (Fig 3b)
 3. Quadratic curve fitting for concentration correction (Fig S6)
 4. NN model simulations of bound population distributions via *itcsimlib* (Fig 2b)
 5. NN model simulations of bound fractional saturations via *itcsimlib* (Fig 2c)
