@@ -30,7 +30,7 @@ More scripts will be updated in the future. Feel free to comment or contact.
 * *[itcsimlib](https://github.com/elihuihms/itcsimlib)*
 
 
-## Acknowledging this work
+## Acknowledging
 
 I hope this work could potentially inspire or accelerate your research. If it does, please consider cite the following paper:
 
