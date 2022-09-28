@@ -17,7 +17,7 @@ It includes the scripts of:
 Note: *[itcsimlib](https://github.com/elihuihms/itcsimlib)* is the python module that helps to fit the thermodynamic binding data via statistical mechanics model. The statistical thermodynamic model can be easily self-designed and automatically computed and displayed in itcsimlib.
 
 
-More scripts will be updated in the future. Feel free to comment or contact.
+More scripts will be updated in the future. Feel free to comment here or contact me.
 
 
 ## Requirements
