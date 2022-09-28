@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the collections of data fitting scripts in the paper of [Li, W, Norris, AN, *et al*, *Protein science* (2022)](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.4424). 
+This is the collections of data fitting scripts in the paper of [Li, Weicheng, Norris, Andrew N, *et al*, *Protein science* (2022)](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.4424). 
 
 It includes the scripts of:
 
