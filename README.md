@@ -12,7 +12,7 @@ It includes the scripts of:
 4. NN model simulations of bound population distributions via *itcsimlib* (Fig 2b)
 5. NN model simulations of bound fractional saturations via *itcsimlib* (Fig 2c)
 6. NN model data fitting of native Mass Spectra (nMS) titration via *itcsimlib* (Fig 4b)
-7. NN model predictions of cellular protein saturations via *itcsimlib* (Fig 5d)
+7. NN model predictions of cellular protein saturations via *itcsimlib* (Fig 5c)
 
 Note: *[itcsimlib](https://github.com/elihuihms/itcsimlib)* is the python module that helps to fit the thermodynamic binding data via statistical mechanics model. The statistical thermodynamic model can be easily self-designed and automatically computed and displayed in itcsimlib.
 
