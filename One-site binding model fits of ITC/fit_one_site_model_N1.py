@@ -6,7 +6,7 @@ from itcsimlib.model_independent import OneMode
 
 sim = ITCSim(T0=298.15,units="kcal",verbose=True)
 
-sim.add_experiment_file('Bst_WT_25.txt', skip=[0])
+sim.add_experiment_file('Bst_WT_25_measuredconc.txt', skip=[0])
 sim.set_model( OneMode() )
 sim.set_model_params(n=11, dG=-10, dH=-10)
 
