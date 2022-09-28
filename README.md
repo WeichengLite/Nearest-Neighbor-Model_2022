@@ -30,13 +30,11 @@ More scripts will be updated in the future. Feel free to comment or contact.
 * *[itcsimlib](https://github.com/elihuihms/itcsimlib)*
 
 
-## Acknowledgment
+## Acknowledging this work
 
 I hope this work could potentially inspire or accelerate your research. If it does, please consider cite the following paper:
 
 1. Li, Weicheng, Norris, Andrew N. et al. "Thermodynamic coupling between neighboring binding sites in homo-oligomeric ligand sensing proteins from mass resolved ligand-dependent population distributions." Protein Science (2022) [https://doi.org/10.1002/pro.4424](https://doi.org/10.1002/pro.4424)
-
-If you are using *itcsimlib*, please also consider cite the following paper:
 
 2. Ihms, Elihu C. et al. "Mechanistic models fit to variable temperature calorimetric data provide insights into cooperativity.” Biophysical Journal (2017) [https://doi.org/10.1016/j.bpj.2017.02.031](https://doi.org/10.1016/j.bpj.2017.02.031)
 
