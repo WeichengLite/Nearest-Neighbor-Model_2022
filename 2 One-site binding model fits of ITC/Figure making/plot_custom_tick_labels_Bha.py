@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_csv('Bha_WT_ITC25.txt',sep='\s+',header=None)
+data = pd.read_csv('Bha_WT_ITC25_Raw.txt',sep='\s+',header=None)
 data = pd.DataFrame(data)
 
 import matplotlib.pyplot as plt
