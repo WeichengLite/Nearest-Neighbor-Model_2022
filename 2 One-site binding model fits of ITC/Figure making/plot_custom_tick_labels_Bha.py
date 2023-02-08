@@ -8,14 +8,10 @@ y = data[1]
 plt.plot(x/60, y,color='#1d3d59')
 plt.xlim([0,185])
 plt.ylim([-1.02,0.05])
-### plt.legend(['20200117_EMR_nESI_BhadTRAP_WTWT_5uM_Trp_11eq_random'])
 
-### turn off the axis: plt.axis('off')
 
-### left='on', top='on', right='on', bottom='off', labelleft='off', labeltop='off', labelright='off', labelbottom='off'
 plt.tick_params(axis='both',direction='in',left=1, bottom=0, top=0, right=0, labelleft=1,labelbottom=1, labeltop=0, labelright=0, labelsize='large')
-### turn off the ticks and labels: plt.xticks([])
-### turn off the ticks and labels: plt.yticks([])
+
 
 
 ### Change the number of ticks on a plot axis
